@@ -1,0 +1,111 @@
+/* Add here all your css styles (customizations) */
+
+.even-section
+{
+	background: #f8f8f8;
+}
+
+.logo-small
+{
+	width: 250px;
+	heigth: 500px;
+	max-width: 250px;
+	max-height: 500px;
+}
+
+.metodologias
+{
+	max-width: 140px;
+	min-width: 100%;
+	min-height: 140px;
+}
+
+.metodologias-tab
+{
+	min-width:100%;
+	padding: 0px 0px 0px 0px !important;
+}
+
+.projetos-caption
+{
+	background: white !important;
+}
+
+.projetos-caption-title
+{
+	color: #706f6f !important;
+}
+
+.projetos-caption-subtitle
+{
+	color: #00a19a !important;
+}
+
+.projetos-misc
+{
+	color: #00a19a; !important;
+	border-color: #00a19a; !important;
+}
+
+.projetos-misc:hover
+{
+	color: white !important;
+	background: #00a19a; !important;;
+	border-color: #c6c6c6;; !important;
+}
+
+.perfil-small
+{
+	width: 510px;
+	heigth: 800px;
+	max-width: 510px;
+	max-height: 800px;
+}
+
+.com-margem
+{
+	margin:10px !important;
+}
+
+.metodologia-text
+{
+	color: white !important;
+}
+
+.steps-v1 li
+{
+	color: white !important;
+}
+
+.steps-v1 p
+{
+	color: white !important;
+}
+
+.diferencial-center
+{
+	min-width: 200px !important;
+	min-height: 200px !important;
+}
+
+.chess-about-us-inner p
+{
+	color: white !important;
+}
+
+
+.imagem-projeto
+{
+	width: 100%;
+}
+
+em.invalid
+{
+	align: left !important;
+	border-radius: 0 !important;
+	font-size: 11px !important;
+	color: #fff !important;
+	font-weight: 400 !important;
+	padding: 4px 7px !important;
+	background-color: #e74c3c !important;
+}
