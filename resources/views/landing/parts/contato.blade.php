@@ -13,14 +13,14 @@
                         <div class="row margin-bottom-30">
                             <div class="col-md-6 col-md-offset-0">
                                 <div>
-                                    {{ Form::text('name','João',['id'=>'name', 'name'=>'name', 'placeholder'=>'Nome*','class'=>'form-control', 'required']) }}
+                                    {{ Form::text('name','',['id'=>'name', 'name'=>'name', 'placeholder'=>'Nome*','class'=>'form-control', 'required']) }}
                                 </div>
                             </div>
 
 
                             <div class="col-md-6 col-md-offset-0">
                                 <div>
-                                    {{ Form::text('phone','(31) 99983-1070',['id'=>'phone', 'name'=>'phone', 'placeholder'=>'Telefone*','class'=>'form-control', 'required']) }}
+                                    {{ Form::text('phone','',['id'=>'phone', 'name'=>'phone', 'placeholder'=>'Telefone*','class'=>'form-control', 'required']) }}
                                 </div>
                             </div>
 
@@ -28,13 +28,13 @@
                         <div class="row margin-bottom-30">
                             <div class="col-md-6 col-md-offset-0">
                                 <div>
-                                    {{ Form::email('email','joaohenriqueabreu@gmail.com',['id'=>'email', 'name'=>'email', 'placeholder'=>'Email*','class'=>'form-control', 'required']) }}
+                                    {{ Form::email('email','',['id'=>'email', 'name'=>'email', 'placeholder'=>'Email*','class'=>'form-control', 'required']) }}
                                 </div>
                             </div>
 
                             <div class="col-md-6 col-md-offset-0">
                                 <div>
-                                    {{ Form::text('subject','Assunto de teste',['id'=>'subject', 'name'=>'subject', 'placeholder'=>'Assunto*','class'=>'form-control', 'required']) }}
+                                    {{ Form::text('subject','',['id'=>'subject', 'name'=>'subject', 'placeholder'=>'Assunto*','class'=>'form-control', 'required']) }}
                                 </div>
                             </div>
                         </div>
@@ -43,7 +43,7 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div>
-                                        {{ Form::textarea('conteudo','Mensagem de teste',['id'=>'conteudo', 'name'=>'conteudo', 'rows'=>'4','placeholder'=>'Mensagem','class'=>'form-control g-textarea-noresize']) }}
+                                        {{ Form::textarea('conteudo','',['id'=>'conteudo', 'name'=>'conteudo', 'rows'=>'4','placeholder'=>'Mensagem','class'=>'form-control g-textarea-noresize']) }}
                                     </div>
                                 </div>
                             </div>
