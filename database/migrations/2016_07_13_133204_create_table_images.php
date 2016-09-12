@@ -18,7 +18,7 @@ class CreateTableImages extends Migration
             $table->string('arquivo');
             $table->string('tipo');
             $table->text('legenda');
-            $table->string('descricao')->nullable();
+            $table->text('descricao')->nullable();
             $table->timestamps();
         });
     }

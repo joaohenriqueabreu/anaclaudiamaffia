@@ -15,7 +15,7 @@ class AddColumnFraseDestaqueToProjetos extends Migration
         //
         Schema::table('projetos', function ($table) {
             $table->renameColumn('descricao','resumo');
-            $table->string('descricao_completa')->nullable();
+            $table->text('descricao_completa')->nullable();
             $table->string('frase_destaque')->nullable();
         });
     }

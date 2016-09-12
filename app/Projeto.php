@@ -86,7 +86,8 @@ class Projeto extends Model
 //    Static functions
     public static function getCategorias()
     {
-        return Categoria::lists('nome','id');
+//        return Categoria::lists('nome','id');
+		return Categoria::where('tipo', '=', 'projetos')->lists('nome','id');
     }
 
 //    Deprecated section
