@@ -39,7 +39,8 @@
                                class="cbp-caption cbp-singlePageInline"
                                data-title="{{ $projeto->name }}<br>{{ $projeto->cidade }}">
                                 <div class="cbp-caption-defaultWrap">
-                                    <img src="{{ $projeto->getImageArquivo('principal') }}" alt="">
+                                    <!--<img src="{{ $projeto->getImageArquivo('principal') }}" alt="">-->
+                                    <img src="{{ URL::asset($projeto->getImageArquivo('principal')) }}" alt="">
                                 </div>
                                 <div class="cbp-caption-activeWrap projetos-caption">
                                     <div class="cbp-l-caption-alignLeft">
