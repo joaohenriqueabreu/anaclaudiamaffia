@@ -6,7 +6,7 @@
 
     <script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
 
-    <input type="filepicker" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" onchange="alert(event.fpfile.url)">
+    <input type="filepicker" name="arquivo" value="" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" id="filestack_picker" onchange="sendFile(event.fpfile.url)">
 </div>
 
 <div class="row">
