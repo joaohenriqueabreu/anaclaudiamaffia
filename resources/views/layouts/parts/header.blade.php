@@ -1,6 +1,6 @@
 <!--=== Header v6 ===-->
 {{--<nav class="architecture-nav one-page-header one-page-header-style-2 navbar" role="navigation">--}}
-<nav class="navbar" role="navigation">
+<nav class="navbar custom-navbar" role="navigation">
 <div class="header header-v6 header-white-transparent header-sticky">
     <!-- Topbar blog -->
     <div class="blog-topbar">

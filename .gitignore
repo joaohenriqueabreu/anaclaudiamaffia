@@ -6,6 +6,7 @@
 Homestead.yaml
 Homestead.json
 .env
+/.idea
 .idea/vcs.xml
 .idea/workspace.xml
 composer.phar

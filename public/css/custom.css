@@ -109,3 +109,8 @@ em.invalid
 	padding: 4px 7px !important;
 	background-color: #e74c3c !important;
 }
+
+.custom-navbar{
+	min-height: 0px !important;
+	margin-bottom: 0px !important;
+}
