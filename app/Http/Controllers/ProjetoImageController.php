@@ -19,16 +19,16 @@ class ProjetoImageController extends Controller
      */
     public function index($idProjeto)
     {
-        $images = Image::where('projeto_id',$idProjeto)->orderBy('id', 'desc')->paginate(10);
+        $images = Image::where('projeto_id', $idProjeto)->orderBy('id', 'desc')->paginate(10);
 
-        return view('projetos.images.index',['images'=>$images]);
+        return view('projetos.images.index', ['images' => $images]);
     }
 
     public function create($idProjeto)
     {
         $projeto = Projeto::findOrFail($idProjeto);
 
-        return view('projetos.images.create',['projeto'=>$projeto]);
+        return view('projetos.images.create', ['projeto' => $projeto]);
     }
 
     public function edit($idProjeto, $id)
@@ -36,7 +36,7 @@ class ProjetoImageController extends Controller
         $image = Image::findOrFail($id);
         $projeto = Projeto::findOrFail($idProjeto);
 
-        return view('projetos.images.edit',['projeto'=>$projeto, 'image'=>$image]);
+        return view('projetos.images.edit', ['projeto' => $projeto, 'image' => $image]);
     }
 
     public function show($idProjeto, $id)
@@ -59,8 +59,7 @@ class ProjetoImageController extends Controller
 
         $projeto = Projeto::findOrFail($idProjeto);
 
-        if(isset($projeto))
-        {
+        if (isset($projeto)) {
             $image->projeto()->associate($projeto);
         }
 
@@ -73,20 +72,20 @@ class ProjetoImageController extends Controller
 //
 //        if(isset($upload) && $upload->isValid())
 //        {
-            // Verifica se existe a pasta do projeto
+        // Verifica se existe a pasta do projeto
 //            if(!$projeto->hasFolder())
 //            {
 //                $projeto->createFolder();
 //            }
 
-            // Agora temos uma pasta, coloca arquivo no pasta
+        // Agora temos uma pasta, coloca arquivo no pasta
 //            $destino = $projeto->getFolder();
 //            $ext = $upload->getClientOriginalExtension();
 //            $arquivo = 'projeto-img-' . $image->id . '.' . $ext;
 //
 //            $upload->move($destino,$arquivo);
 
-            // Atualiza o campo arquivo para facilitar a busca pelas imagens
+        // Atualiza o campo arquivo para facilitar a busca pelas imagens
 //            $image->arquivo = $destino . $arquivo;
 //            $image->arquivo = $projeto->getAssetFolder() . $arquivo;
 //
@@ -94,19 +93,19 @@ class ProjetoImageController extends Controller
 //        }
 //        else
 //        {
-            // do nothing
+        // do nothing
 //        }
 
         // Salva a imagem relacionada ao projeto
 //        $image->save();
 
-        return view('projetos.edit', ['projeto'=>$projeto]);
+        return view('projetos.edit', ['projeto' => $projeto]);
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  int  $id
+     * @param  int $id
      * @return Response
      */
 
@@ -117,8 +116,7 @@ class ProjetoImageController extends Controller
 
         $projeto = Projeto::findOrFail($idProjeto);
 
-        if(isset($projeto))
-        {
+        if (isset($projeto)) {
             $image->projeto()->associate($projeto);
         }
 
@@ -126,47 +124,47 @@ class ProjetoImageController extends Controller
         $image->save();
 
         // Processar a imagem
-        $upload= $request->file('arquivo');
+//        $upload= $request->file('arquivo');
 
-        if(isset($upload) && $upload->isValid())
-        {
-            // Apaga a imagem existente - somente se houver nova imagem
-            $image->deleteFile();
+//        if(isset($upload) && $upload->isValid())
+//        {
+        // Apaga a imagem existente - somente se houver nova imagem
+//            $image->deleteFile();
 
-            // Verifica se existe a pasta do projeto
-            if(!$projeto->hasFolder())
-            {
-                $projeto->createFolder();
-            }
+        // Verifica se existe a pasta do projeto
+//            if(!$projeto->hasFolder())
+//            {
+//                $projeto->createFolder();
+//            }
 
-            // Agora temos uma pasta, coloca arquivo no pasta
-            $destino = $projeto->getFolder();
-            $ext = $upload->getClientOriginalExtension();
-            $arquivo = 'projeto-img-' . $image->id . '.' . $ext;
+        // Agora temos uma pasta, coloca arquivo no pasta
+//            $destino = $projeto->getFolder();
+//            $ext = $upload->getClientOriginalExtension();
+//            $arquivo = 'projeto-img-' . $image->id . '.' . $ext;
 
-            $upload->move($destino,$arquivo);
+//            $upload->move($destino,$arquivo);
 
-            // Atualiza o campo arquivo para facilitar a busca pelas imagens
+        // Atualiza o campo arquivo para facilitar a busca pelas imagens
 //            $image->arquivo = $destino . $arquivo;
-            $image->arquivo = $projeto->getAssetFolder() . $arquivo;
-
-            $image->save();
-        }
-        else
-        {
-            // do nothing
-        }
+//            $image->arquivo = $projeto->getAssetFolder() . $arquivo;
+//
+//            $image->save();
+//        }
+//        else
+//        {
+        // do nothing
+//        }
 
         // Salva a imagem relacionada ao projeto
 //        $image->save();
 
-        return view('projetos.edit', ['projeto'=>$projeto]);
+        return view('projetos.edit', ['projeto' => $projeto]);
     }
 
     /**
      * Remove the specified resource from storage.
      *
-     * @param  int  $id
+     * @param  int $id
      * @return Response
      */
     public function destroy($idProjeto, $id)
@@ -178,6 +176,6 @@ class ProjetoImageController extends Controller
         $image->deleteRecord();
 
 
-        return view('projetos.edit', ['projeto'=>$projeto]);
+        return view('projetos.edit', ['projeto' => $projeto]);
     }
 }

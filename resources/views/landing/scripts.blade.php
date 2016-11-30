@@ -4,7 +4,7 @@
     {{ Html::script(asset('plugins/counter/waypoints.min.js'))}}
     {{ Html::script(asset('plugins/counter/jquery.counterup.min.js'))}}
     {{ Html::script(asset('plugins/fancybox/source/jquery.fancybox.pack.js'))}}
-    {{ Html::script(asset('js/custom.js'))}}
+{{--    {{ Html::script(asset('js/custom.js'))}}--}}
     {{ Html::script(asset('js/plugins/fancy-box.js'))}}
     {{ Html::script(asset('js/plugins/master-slider-fw.js'))}}
 <!-- End Home -->
