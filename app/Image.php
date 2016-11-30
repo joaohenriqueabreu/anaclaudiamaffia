@@ -17,7 +17,7 @@ class Image extends Model
 //        return $this->arquivo;
 //    }
 
-    protected $fillable = ['tipo', 'legenda', 'descricao'];
+    protected $fillable = ['tipo', 'legenda', 'descricao', 'arquivo'];
     
     public function projeto()
     {

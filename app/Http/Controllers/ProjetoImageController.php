@@ -68,33 +68,34 @@ class ProjetoImageController extends Controller
         $image->save();
 
         // Processar a imagem
-        $upload= $request->file('arquivo');
-        
-        if(isset($upload) && $upload->isValid())
-        {
+
+//        $upload= $request->file('arquivo');
+//
+//        if(isset($upload) && $upload->isValid())
+//        {
             // Verifica se existe a pasta do projeto
-            if(!$projeto->hasFolder())
-            {
-                $projeto->createFolder();
-            }
+//            if(!$projeto->hasFolder())
+//            {
+//                $projeto->createFolder();
+//            }
 
             // Agora temos uma pasta, coloca arquivo no pasta
-            $destino = $projeto->getFolder();
-            $ext = $upload->getClientOriginalExtension();
-            $arquivo = 'projeto-img-' . $image->id . '.' . $ext;
-
-            $upload->move($destino,$arquivo);
+//            $destino = $projeto->getFolder();
+//            $ext = $upload->getClientOriginalExtension();
+//            $arquivo = 'projeto-img-' . $image->id . '.' . $ext;
+//
+//            $upload->move($destino,$arquivo);
 
             // Atualiza o campo arquivo para facilitar a busca pelas imagens
 //            $image->arquivo = $destino . $arquivo;
-            $image->arquivo = $projeto->getAssetFolder() . $arquivo;
-
-            $image->save();
-        }
-        else
-        {
+//            $image->arquivo = $projeto->getAssetFolder() . $arquivo;
+//
+//            $image->save();
+//        }
+//        else
+//        {
             // do nothing
-        }
+//        }
 
         // Salva a imagem relacionada ao projeto
 //        $image->save();
