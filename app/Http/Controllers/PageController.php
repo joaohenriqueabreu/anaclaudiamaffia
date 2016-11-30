@@ -19,7 +19,8 @@ class PageController extends Controller
 //    public function main()
     {
         // seleciona as categorias
-        $categorias = Categoria::all();
+//        $categorias = Categoria::all();
+        $categorias = Categoria::whereTipo('projetos')->get();
 
         // seleciona os projetos
         $limit=6;

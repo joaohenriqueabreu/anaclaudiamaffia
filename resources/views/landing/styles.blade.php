@@ -11,6 +11,8 @@
 {{ Html::style(asset('css/plugins/pace-flash.css'))}}
 {{ Html::style(asset('plugins/cube-portfolio/cubeportfolio/css/cubeportfolio.min.css'))}}
 {{ Html::style(asset('plugins/cube-portfolio/cubeportfolio/custom/custom-cubeportfolio.css'))}}
+{{ Html::style(asset('css/plugins/slick.css'))}}
+{{ Html::style(asset('css/plugins/swiper.css'))}}
 {{ Html::style(asset('css/wealth.style.css')) }}
 <!-- End Serviços -->
 
@@ -24,6 +26,7 @@
 {{ Html::style(asset('css/business.style.css'))}}
 {{ Html::style(asset('css/agency.style.css'))}}
 {{ Html::style(asset('css/global.css')) }}
+{{ Html::style(asset('css/music.style.css')) }}
 {{--End Metodologia--}}
 
 {{ Html::style(asset('plugins/line-icons-pro/styles.css')) }}

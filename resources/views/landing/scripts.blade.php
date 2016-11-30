@@ -31,6 +31,14 @@
 {{--    {{ Html::script(asset('js/plugins/pace-loader.js')) }}--}}
     {{ Html::script(asset('js/plugins/owl-carousel2.js')) }}
     {{ Html::script(asset('js/plugins/promo.js')) }}
+    {{ Html::script(asset('js/plugins/promo2.js')) }}
+    {{ Html::script(asset('js/plugins/twi.js')) }}
+{{--    {{ Html::script(asset('js/plugins/best-albums.js')) }}--}}
+{{--    {{ Html::script(asset('js/plugins/contact.js')) }}--}}
+{{--    {{ Html::script(asset('js/plugins/event-timer.js')) }}--}}
+{{--    {{ Html::script(asset('js/plugins/media-gallery.js')) }}--}}
+    {{--{{ Html::script(asset('js/plugins/pop-up.js')) }}--}}
+    {{--{{ Html::script(asset('js/plugins/video-list.js')) }}--}}
 <!-- End Serviços -->
 
 {{--Metodologia --}}
@@ -41,6 +49,8 @@
 
 <!-- Begin projetos -->
     {{ Html::script(asset('plugins/cube-portfolio/cubeportfolio/js/jquery.cubeportfolio.min.js')) }}
+    {{ Html::script(asset('js/plugins/swiper.jquery.min.js')) }}
+    {{ Html::script(asset('js/plugins/slick.min.js')) }}
     {{ Html::script(asset('js/plugins/cube-portfolio/cube-portfolio-lightbox.js')) }}
 <!-- End projetos -->
 

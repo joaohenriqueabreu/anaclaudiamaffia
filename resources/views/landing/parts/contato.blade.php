@@ -40,7 +40,7 @@
                         </div>
 
                         <div class="row margin-bottom-30">
-                            <div class="row">
+                            <div class="">
                                 <div class="col-md-12">
                                     <div>
                                         {{ Form::textarea('conteudo','',['id'=>'conteudo', 'name'=>'conteudo', 'rows'=>'4','placeholder'=>'Mensagem','class'=>'form-control g-textarea-noresize']) }}
@@ -78,7 +78,7 @@
                     <ul class="list-unstyled margin-bottom-30">
                         <li><span aria-hidden="true" class="icon-envelope-open icon"></span></li>
                         <li class="first-item">Email</li>
-                        <li class="second-item">contato@anaclaudimaffia.com.br</li>
+                        <li class="second-item">contato@anaclaudiamaffia.com.br</li>
                     </ul>
                 </div>
             </div>

@@ -114,3 +114,16 @@ em.invalid
 	min-height: 0px !important;
 	margin-bottom: 0px !important;
 }
+
+.custom-margin-bottom-0{
+	margin-bottom: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+.custom-color-white{
+	color: white !important;
+}
+
+.g-display-td p{
+	color: white !important;
+}

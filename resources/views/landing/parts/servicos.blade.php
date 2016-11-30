@@ -153,7 +153,8 @@
 {{--<!--End of About Section-->--}}
 
 <!-- Section -->
-<section class="g-bg-gray g-pt-100 g-pb-100" id="servicos">
+{{--<section class="g-bg-gray g-pt-100 g-pb-100" id="servicos">--}}
+<section class="" id="servicos">
     <div class="container">
         {{--<div class="row g-mb-40 text-center">--}}
             {{--<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">--}}
@@ -172,7 +173,7 @@
                 <li role="presentation" class="active"><a href="#consultoria" aria-controls="consultoria" role="tab" data-toggle="tab">Consultoria</a></li>
                 <li role="presentation"><a href="#proj-arq-interiores" aria-controls="proj-arq-interiores" role="tab" data-toggle="tab">Projeto de arquitetura e interiores</a></li>
                 <li role="presentation"><a href="#proj-virtual" aria-controls="proj-virtual" role="tab" data-toggle="tab">Projeto Virtual</a></li>
-                <li role="presentation"><a href="#outros" aria-controls="outros" role="tab" data-toggle="tab">Outros</a></li>
+                {{--<li role="presentation"><a href="#outros" aria-controls="outros" role="tab" data-toggle="tab">Outros</a></li>--}}
             </ul>
 
             <!-- Tab panes -->
@@ -263,17 +264,17 @@
         </div>
     </div>
 
-    <div class="parallax-quote parallaxBg"
-        style="background: url({{ URL::asset('img/servicos/IMAGEM_1.jpg') }}) 50% 0 repeat fixed;">
-        <div class="container">
-            <div class="parallax-quote-in">
-                <p>Ser arquiteto é fazer de simples traço a projeção de sonhos, a construção da realidade, do desejo em arte concreta.</p>
-                    {{--<span class="color-green"></span>--}}
-                    <br>
-                <small>- Autor desconhecido -</small>
-            </div>
-        </div>
-    </div>
+    {{--<div class="parallax-quote parallaxBg"--}}
+        {{--style="background: url({{ URL::asset('img/servicos/IMAGEM_1.jpg') }}) 50% 0 repeat fixed;">--}}
+        {{--<div class="container">--}}
+            {{--<div class="parallax-quote-in">--}}
+                {{--<p>Ser arquiteto é fazer de simples traço a projeção de sonhos, a construção da realidade, do desejo em arte concreta.</p>--}}
+                    <span class="color-green"></span>
+                    {{--<br>--}}
+                {{--<small>- Autor desconhecido -</small>--}}
+            {{--</div>--}}
+        {{--</div>--}}
+    {{--</div>--}}
 </section>
 <!-- End Section -->
 

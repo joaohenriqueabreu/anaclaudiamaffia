@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2254265292">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="MySQL - heroku_a745452406045ba@us-cdbr-iron-east-04.cleardb.net" uuid="9123a411-7d91-4413-ab31-24373988a2e9">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>

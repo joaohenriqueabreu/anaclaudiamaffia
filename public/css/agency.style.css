@@ -936,7 +936,8 @@ i.icon-border-v3.g-icon-hover-1 span {
 	transition: all 0.3s ease-in-out;
 }
 .why-we-item--dark .g-display-table:hover {
-	background: #706f6a;
+	/*background: #706f6a;*/
+	background: lightseagreen;
 }
 .why-we-item--dark i {
 	margin-right: 30px;

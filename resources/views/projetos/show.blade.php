@@ -83,15 +83,21 @@
 
                 <!-- Content Info -->
                 <div class="col-md-5">
-                    <h2>Detalhes do projeto</h2>
-                    <p>
-                        {{ $projeto->descricao_completa }}
+                    {{--<h2>Detalhes do projeto</h2>--}}
+                    <h2 class="cbp-l-caption-title projetos-caption-title custom-margin-bottom-0">{{ $projeto->nome }}</h2>
+                    {{--<h2>{{ $projeto->nome }}</h2>--}}
+                    {{--<div class="cbp-l-caption-desc projetos-caption-subtitle">{{ $projeto->cidade }}</div>--}}
+                    <div class="cbp-l-caption-desc projetos-caption-subtitle">{{ $projeto->cidade }}</div>
+                    <br>
+                    <p align="justify">
+                        {!!  nl2br(e($projeto->descricao_completa)) !!}
                     </p>
                     <ul class="list-unstyled">
 {{--                        <li><i class="fa fa-user color-green"></i> {{ $projeto->nome_cliente }}</li>--}}
                         {{--<li><i class="fa fa-calendar color-green"></i> {{ $projeto->cidade }}</li>--}}
                         <li>
-                            <i class="fa fa-tags color-green"></i> {{ $projeto->categoria->nome . ', ' . $projeto->cidade }}
+{{--                            <i class="fa fa-tags color-green"></i> {{ $projeto->categoria->nome . ', ' . $projeto->cidade }}--}}
+                            <i class="fa fa-tags color-green"></i> {{ $projeto->categoria->nome }}
                         </li>
                     </ul>
                 </div>

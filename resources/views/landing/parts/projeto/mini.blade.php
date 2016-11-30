@@ -8,7 +8,7 @@
         <div class="cbp-l-inline-title projetos-caption-title">{{ $projeto->nome }}</div>
         <div class="cbp-l-inline-subtitle projetos-caption-subtitle">{{ $projeto->cidade }}</div>
 
-        <div class="cbp-l-inline-desc" align="center">
+        <div class="cbp-l-inline-desc" align="justify">
             {{ $projeto->resumo }}
         </div>
 

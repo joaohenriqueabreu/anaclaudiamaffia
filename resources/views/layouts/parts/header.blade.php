@@ -75,11 +75,11 @@
                         <!-- End Blog -->
 
                         <!-- Portfolio -->
-                        <li class="page-scroll">
-                            <a href="#metodologia">
-                                Metodologia
-                            </a>
-                        </li>
+                        {{--<li class="page-scroll">--}}
+                            {{--<a href="#metodologia">--}}
+                                {{--Metodologia--}}
+                            {{--</a>--}}
+                        {{--</li>--}}
                         <!-- End Portfolio -->
 
                             <!-- Portfolio -->
