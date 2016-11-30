@@ -36,6 +36,8 @@
     {{--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxzsBDvUHrptjCDFs3UWbNpxpvTHkGXUI&amp;signed_in=true&amp;callback=initMap" async defer></script><script src="js/plugins/gmaps-ini.js"></script>--}}
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4UzShhD2VUcNO1Nue_g7yvbzVtahqtew&amp;callback=initMap" async defer></script><script src="js/plugins/gmaps-ini.js"></script>
     {{ Html::script(asset('js/plugins/gmaps-ini.js')) }}
+
+    <script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
 {{--    {{ Html::script(asset('js/plugins/best-albums.js')) }}--}}
 {{--    {{ Html::script(asset('js/plugins/contact.js')) }}--}}
 {{--    {{ Html::script(asset('js/plugins/event-timer.js')) }}--}}

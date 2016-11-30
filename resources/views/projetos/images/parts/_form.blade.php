@@ -2,7 +2,9 @@
     {{ Form::label('Arquivo:') }}
 </div>
 <div class="row">
-    {{ Form::file('arquivo') }}
+{{--    {{ Form::file('arquivo') }}--}}
+    <input type="filepicker" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz"
+           onchange="alert(event.fpfile.url)">
 </div>
 
 <div class="row">
