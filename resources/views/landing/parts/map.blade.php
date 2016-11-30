@@ -1,0 +1,1 @@
+<div class="GMap-stand-alone" id="map"></div>
