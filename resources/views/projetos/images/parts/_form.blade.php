@@ -3,8 +3,10 @@
 </div>
 <div class="row">
 {{--    {{ Form::file('arquivo') }}--}}
-    <input type="filepicker" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz"
-           onchange="alert(event.fpfile.url)">
+
+    <script type="text/javascript" src="//api.filestackapi.com/filestack.js"></script>
+
+    <input type="filepicker" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" onchange="alert(event.fpfile.url)">
 </div>
 
 <div class="row">
