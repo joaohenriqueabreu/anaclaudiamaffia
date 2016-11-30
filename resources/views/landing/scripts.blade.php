@@ -33,8 +33,9 @@
     {{ Html::script(asset('js/plugins/promo.js')) }}
     {{ Html::script(asset('js/plugins/promo2.js')) }}
     {{ Html::script(asset('js/plugins/twi.js')) }}
+    {{--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCxzsBDvUHrptjCDFs3UWbNpxpvTHkGXUI&amp;signed_in=true&amp;callback=initMap" async defer></script><script src="js/plugins/gmaps-ini.js"></script>--}}
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4UzShhD2VUcNO1Nue_g7yvbzVtahqtew&amp;callback=initMap" async defer></script><script src="js/plugins/gmaps-ini.js"></script>
     {{ Html::script(asset('js/plugins/gmaps-ini.js')) }}
-<script src="https://maps.googleapis.com/maps/api/js?signed_in=true&amp;callback=initMap" async defer></script><script src="assets/js/plugins/gmaps-ini.js"></script>
 {{--    {{ Html::script(asset('js/plugins/best-albums.js')) }}--}}
 {{--    {{ Html::script(asset('js/plugins/contact.js')) }}--}}
 {{--    {{ Html::script(asset('js/plugins/event-timer.js')) }}--}}

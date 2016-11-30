@@ -124,6 +124,19 @@ em.invalid
 	color: white !important;
 }
 
+.custom-map-label{
+	padding-top: 20px !important;
+	padding-bottom: 20px !important;
+}
+
+.custom-background-ana-green{
+	background: #00A19A !important;
+}
+
+.custom-color-ana-green{
+	color: #00A19A !important;
+}
+
 .g-display-td p{
 	color: white !important;
 }
