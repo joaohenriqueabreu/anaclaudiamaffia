@@ -8,8 +8,10 @@
     {{--<script type="text/javascript" src="js/custom.js"></script>--}}
     {{ Html::script(asset('js/custom.js')) }}
 
-    <input type="filepicker" name="arquivo" value="" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" id="filestack_picker" onchange="sendFile(event.fpfile.url)">
-    {{ Form::text('arquivo') }}
+    {{--<input type="filepicker" name="arquivo" value="" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" id="filestack_picker" onchange="sendFile(event.fpfile.url)">--}}
+    <input type="filepicker" data-fp-apikey="AVBGWkvEIQiSIj086FNlyz" id="filestack_picker" onchange="sendFile(event.fpfile.url)">
+{{--    {{ Form::text('arquivo') }}--}}
+    <input type="hidden" name="arquivo">
 </div>
 
 <div class="row">
