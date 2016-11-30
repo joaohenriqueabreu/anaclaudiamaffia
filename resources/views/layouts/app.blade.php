@@ -15,6 +15,16 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Ana Cláudia Maffia" />
+    <meta property="og:type"  content="website" />
+    <meta property="og:url" content="www.anaclaudiamaffia.com.br" />
+    <meta property="og:image" itemprop="image" content="{{ asset('img/logo/logo1.png') }}" />
+    <meta property="og:description" content="Ana Cláudia Maffia Arquitetura e Interiores" />
+    <meta property="og:site_name" content="Arquitetura e Interiores" />
+
+    <link rel="icon" href="{{ asset('img/logo/favicon.jpg') }}">
+
     @include('layouts.styles')
 
     @section('styles')

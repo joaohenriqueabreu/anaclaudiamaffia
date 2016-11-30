@@ -1,9 +1,13 @@
 /vendor
 /node_modules
 /public/storage
+/vendor/
+/bower_components/
 Homestead.yaml
 Homestead.json
 .env
 .idea/vcs.xml
 .idea/workspace.xml
 composer.phar
+*.zip
+.idea/dataSources/
