@@ -3,7 +3,7 @@
         <div class="container content-md">
             <div class="g-heading-v7 text-center">
                 {{--<h2 class="title-v2 title-center">PROJETOS</h2>--}}
-                <h2 class="h2 g-mb-70"><em class="block-name">Projetos</em> Projetos recentes desenvolvidos</h2>
+                <h2 class="h2 g-mb-70"><em class="block-name">Projetos</em>Em breve o seu projeto também poderá estar aqui!</h2>
             </div>
 
             <div class="cube-portfolio container margin-bottom-20">
