@@ -2333,7 +2333,7 @@
 .parallax-quote-in p {
   color: #fff;
   font-size: 28px;
-  text-transform: uppercase;
+  //text-transform: uppercase;
   font-family: "Open Sans", Arial, sans-serif;
 }
 
