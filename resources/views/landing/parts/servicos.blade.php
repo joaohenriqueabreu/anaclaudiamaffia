@@ -171,7 +171,7 @@
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation" class="active"><a href="#consultoria" aria-controls="consultoria" role="tab" data-toggle="tab">Consultoria</a></li>
-                <li role="presentation"><a href="#proj-arq-interiores" aria-controls="proj-arq-interiores" role="tab" data-toggle="tab">Projeto de arquitetura e interiores</a></li>
+                <li role="presentation"><a href="#proj-arq-interiores" aria-controls="proj-arq-interiores" role="tab" data-toggle="tab">Projeto arquitetônico, interiores e acompanhamento</a></li>
                 <li role="presentation"><a href="#proj-virtual" aria-controls="proj-virtual" role="tab" data-toggle="tab">Projeto Virtual</a></li>
                 {{--<li role="presentation"><a href="#outros" aria-controls="outros" role="tab" data-toggle="tab">Outros</a></li>--}}
             </ul>
