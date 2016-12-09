@@ -1,5 +1,5 @@
-<div class="parallax-quote parallaxBg"
-     style="background: url({{ URL::asset('img/servicos/IMAGEM_1.jpg') }}) 50% 0 repeat fixed;">
+{{--<div class="parallax-quote parallaxBg" style="background: url({{ URL::asset('img/servicos/IMAGEM_1.jpg') }}) 50% 0 repeat fixed;">--}}
+<div class="parallax-quote parallaxBg" style="background: url({{ URL::asset($background) }}) 50% 0 repeat fixed;">
     <div class="container">
         <div class="parallax-quote-in">
             <p>
