@@ -5,9 +5,10 @@
         <div class="why-we-item why-we-item--light equal-height-column">
             <div class="why-we-item-inner">
                 <h2 class="h2"><em class="block-name">Diferenciais</em> Porque você deve fazer um projeto conosco ?</h2>
-                <p align="justify">Porque tratamos nossos clientes com o respeito e atenção que eles merecem, afinal nosso maior sonho é realizar os sonhos de cada um deles!
-                Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários, que tragam realização, conforto e praticidade.
-                Porque entendemos nossa tarefa enquanto arquitetos e responsáveis por trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!
+                <p align="justify"><p>Porque tratamos nossos clientes com o respeito e atenção que eles merecem, afinal nosso maior sonho é realizar os sonhos de cada um deles!</p>
+                <p>Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários, que tragam realização, conforto e praticidade.</p>
+                <p>Porque entendemos nossa tarefa enquanto arquitetos e responsáveis por trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!</p>
+                <p>Veja ao lado nossos maiores diferencias.</p>
                 {{--<p align="justify"><button class="btn-u btn-u-lg btn-u-red btn-u-upper" type="submit">Get In Touch</button>--}}
                 </p>
             </div>
