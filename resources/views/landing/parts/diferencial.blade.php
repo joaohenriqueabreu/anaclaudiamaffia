@@ -18,7 +18,7 @@
             <div class="why-we-item-inner">
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
-                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-magnet"></i>
+                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line glyphicon-heart-empty"></i>
                     </div>
                     <div class="g-display-td g-text-top">
                         <h4>FOCO NA REALIZAÇÃO DE SONHOS</h4>
@@ -35,7 +35,7 @@
                 </div>
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
-                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-magic-wand"></i>
+                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line glyphicon-picture"></i>
                     </div>
                     <div class="g-display-td g-text-top">
                         <h4>APRESENTAÇÃO 3D E VR</h4>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
-                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-calculator"></i>
+                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line glyphicon-check"></i>
                     </div>
                     <div class="g-display-td g-text-top">
                         <h4>QUALIDADE DE PROJETO E GESTÃO</h4>
