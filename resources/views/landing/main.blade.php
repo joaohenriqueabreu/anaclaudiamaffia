@@ -19,12 +19,12 @@
     @php ($mensagem = "Ser um escritório referência em QUALIDADE, INOVAÇÃO e DIFERENCIAÇÃO dos projetos. Colocar os SONHOS dos clientes sempre à frente, respeitando suas INDIVIDUALIDADES. Ser reconhecido por nossos clientes como PARCEIROS e agentes facilitadores para a realização de seus OBJETIVOS.")
     @include('landing.parts.mensagem')
 
+    @include('landing.parts.diferencial')
     @include('landing.parts.servicos')
 {{--    @include('landing.parts.metodologia')--}}
     @php ($mensagem = "TRANSPARÊNCIA, DISCIPLINA e COMPROMETIMENTO no atendimento aos clientes. ATENÇÃO e CUIDADO ao desenvolver cada projeto. Busca constante de CONHECIMENTO e INOVAÇÃO.")
     @include('landing.parts.mensagem')
 
-    @include('landing.parts.diferencial')
     @include('landing.parts.faq')
     @include('landing.parts.projetos')
 {{--    @include('landing.parts.blog')--}}
