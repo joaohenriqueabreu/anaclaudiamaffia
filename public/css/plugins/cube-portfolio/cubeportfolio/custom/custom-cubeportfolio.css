@@ -67,11 +67,11 @@
 }
 
 .cube-portfolio .cbp-l-filters-text .cbp-filter-counter {
-	background: #72c02c;
+	background: #00A19A;
 }
 
 .cube-portfolio .cbp-l-filters-text .cbp-filter-counter:before {
-	border-top-color: #72c02c;
+	border-top-color: #00A19A;
 }
 
 /*Pagination*/
@@ -82,7 +82,7 @@
 /*Buttons*/
 .cube-portfolio .cbp-l-caption-buttonLeft,
 .cube-portfolio .cbp-l-caption-buttonRight {
-	background: #72c02c;
+	background: #00A19A;
 }
 
 .cube-portfolio .cbp-l-caption-buttonLeft:hover,
