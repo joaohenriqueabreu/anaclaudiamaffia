@@ -11,7 +11,7 @@
 @section('conteudo')
     @include('landing.parts.home')
     {{--// Temporario para depois alterar o texto--}}
-    @php ($mensagem = "Aqui vem a mensagem 1")
+    @php ($mensagem = "Aqui vem a mensagem 111")
     @include('landing.parts.mensagem')
 
     @include('landing.parts.perfil')
