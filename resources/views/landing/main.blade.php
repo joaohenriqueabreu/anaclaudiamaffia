@@ -20,12 +20,11 @@
     @include('landing.parts.mensagem')
 
     @include('landing.parts.diferencial')
-    @include('landing.parts.servicos')
-{{--    @include('landing.parts.metodologia')--}}
     @php ($mensagem = "TRANSPARÊNCIA, DISCIPLINA e COMPROMETIMENTO no atendimento aos clientes. ATENÇÃO e CUIDADO ao desenvolver cada projeto. Busca constante de CONHECIMENTO e INOVAÇÃO.")
     @include('landing.parts.mensagem')
-
-    @include('landing.parts.faq')
+    @include('landing.parts.servicos')
+{{--    @include('landing.parts.metodologia')--}}
+       @include('landing.parts.faq')
     @include('landing.parts.projetos')
 {{--    @include('landing.parts.blog')--}}
     @include('landing.parts.contato')
