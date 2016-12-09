@@ -3,11 +3,11 @@
         <div class="text-center g-max-width--700 g-margin-side-auto">
             <div class="twi-feed">
                 <div class="twi">
-                    <a href="#" class="twi-author g-mb-25">
+                    <!--<a href="#" class="twi-author g-mb-25">
                         {{--<img src="assets/img-temp/twi/1.jpg" alt="">--}}
                         {{ Html::image(asset('img/faq/barra4.jpg')) }}
                         <strong>@unify</strong>
-                    </a>
+                    </a>!-->
                     <blockquote class="twi__tweet g-mb-30">
                         Quanto custa?
                     </blockquote>
@@ -16,11 +16,11 @@
                     </em>
                 </div>
                 <div class="twi">
-                    <a href="#" class="twi-author g-mb-25">
+                    <!--<a href="#" class="twi-author g-mb-25">
                         {{--<img src="assets/img-temp/twi/1.jpg" alt="">--}}
                         {{ Html::image(asset('img/faq/barra4.jpg')) }}
                         <strong>@unify</strong>
-                    </a>
+                    </a>-->
                     <blockquote class="twi__tweet g-mb-30">
                         Qual a diferença entre o projeto completo e a consultoria?
                     </blockquote>
