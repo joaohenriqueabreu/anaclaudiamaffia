@@ -25,6 +25,9 @@
                         {{ Html::image(asset('img/faq/barra4.jpg')) }}
                         <strong>@unify</strong>
                     </a>-->
+                    <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                         Qual a diferença entre o projeto completo e a consultoria?
                     </blockquote>
@@ -33,6 +36,9 @@
                     </em>
                 </div>
                        <div class="twi">
+                       <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                         Mas e se depois da consultoria eu tiver dificuldade em executar algum serviço ou comprar algum item?
                     </blockquote>
@@ -41,6 +47,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                         Como vou saber o melhor serviço para o meu caso?
                     </blockquote>
@@ -49,6 +58,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                       Como saberei se o projeto atenderá minhas expectativas de custo e prazo para a obra?
                     </blockquote>
@@ -57,6 +69,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                       Tem alguma outra dúvida?
                     </blockquote>
@@ -65,6 +80,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                      Quero construir (ou reformar), devo contratar um arquiteto ou um engenheiro?
                     </blockquote>
@@ -73,6 +91,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                      Qual o papel do arquiteto?
                     </blockquote>
@@ -81,6 +102,9 @@
                     </em>
                 </div>
                 <div class="twi">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                      Os projetos desenvolvidos por arquitetos ficam sempre mais caros?
                     </blockquote>
