@@ -1,4 +1,7 @@
 <section id="perfil">
+    <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Perfil</em>Um pouquinho sobre a arquiteta</h2>
+        </div>
     <div class="row">
         <div class="team-v7 no-gutter equal-height-columns">
             <div class="col-md-7 team-arrow-right">
