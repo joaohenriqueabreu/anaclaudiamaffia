@@ -2,15 +2,16 @@
     <div class="twi-section-inner">
         <div class="text-center g-max-width--700 g-margin-side-auto">
             <div class="twi-feed">
-                <div class="g-heading-v7 text-center g-mb-70">
-            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
-        </div>
+       
                 <div class="twi">
                     <!--<a href="#" class="twi-author g-mb-25">
                         {{--<img src="assets/img-temp/twi/1.jpg" alt="">--}}
                         {{ Html::image(asset('img/faq/barra4.jpg')) }}
                         <strong>@unify</strong>
                     </a>!-->
+                    <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                     <blockquote class="twi__tweet g-mb-30">
                         Quanto custa?
                     </blockquote>
