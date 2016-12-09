@@ -18,7 +18,7 @@
             <div class="why-we-item-inner">
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
-                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-heart-empty"></i>
+                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-glyphicon  icon-heart-empty"></i>
                     </div>
                     <div class="g-display-td g-text-top">
                         <h4>FOCO NA REALIZAÇÃO DE SONHOS</h4>
