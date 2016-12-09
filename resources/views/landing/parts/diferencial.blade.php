@@ -5,7 +5,7 @@
         <div class="why-we-item why-we-item--light equal-height-column">
             <div class="why-we-item-inner">
                 <h2 class="h2"><em class="block-name">Diferenciais</em> Porque você deve fazer um projeto conosco ?</h2>
-                Porque tratamos nossos clientes com o respeito e atenção que eles merecem, afinal nosso maior sonho é realizar os sonhos de cada um deles!
+                <p align="justify">Porque tratamos nossos clientes com o respeito e atenção que eles merecem, afinal nosso maior sonho é realizar os sonhos de cada um deles!
                 Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários, que tragam realização, conforto e praticidade.
                 Porque entendemos nossa tarefa enquanto arquitetos e responsáveis por trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!
                 {{--<p align="justify"><button class="btn-u btn-u-lg btn-u-red btn-u-upper" type="submit">Get In Touch</button>--}}
@@ -37,7 +37,7 @@
                         <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-magic-wand"></i>
                     </div>
                     <div class="g-display-td g-text-top">
-                        <h4>k.	APRESENTAÇÃO 3D E VR</h4>
+                        <h4>APRESENTAÇÃO 3D E VR</h4>
                         <p align="justify">Entendemos que o desenvolvimento de um projeto - seja ele comercial, residencial, corporativo, etc... – 
                         gera muita ansiedade e insegurança aos clientes, o que é perfeitamente aceitável quando pensamos que geralmente eles estão 
                         depositando ali além do investimento financeiro, também sonhos e expectativas. Para que o cliente possa se sentir seguro 
