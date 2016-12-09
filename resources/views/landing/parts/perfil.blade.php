@@ -4,6 +4,9 @@
             <div class="col-md-7 team-arrow-right">
                 <div class="dp-table">
                     <div class="equal-height-column dp-table-cell team-v7-in">
+                        <div class="why-we equal-height-columns g-heading-v7 clearfix" id="WhyWe">
+        <div class="why-we-item why-we-item--light equal-height-column">
+            <div class="why-we-item-inner">
                         <h2 class="h2"><em class="block-name">Diferenciais</em> Porque você deve fazer um projeto conosco ?</h2>
                         <span class="team-v7-name">Ana Claudia Maffia de Abreu</span>
                         <span class="team-v7-position">Arquiteta e Urbanista | CAU A69921-7</span>
