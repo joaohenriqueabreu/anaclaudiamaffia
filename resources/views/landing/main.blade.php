@@ -31,6 +31,7 @@
     @include('landing.parts.servicos')
 {{--    @include('landing.parts.metodologia')--}}
        @include('landing.parts.faq')
+       @php ($background = "img/faq/barra4.jpg")
     @include('landing.parts.projetos')
 {{--    @include('landing.parts.blog')--}}
     @include('landing.parts.contato')
