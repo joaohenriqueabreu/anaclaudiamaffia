@@ -68,10 +68,17 @@
                         </li>
 
                         <li class="page-scroll">
+                                <a href="#diferencial">
+                                    Diferencial
+                                </a>
+                        </li>
+                            
+                        <li class="page-scroll">
                             <a href="#servicos">
                                 Serviços
                             </a>
                         </li>
+                        
                         <!-- End Blog -->
 
                         <!-- Portfolio -->
@@ -83,11 +90,7 @@
                         <!-- End Portfolio -->
 
                             <!-- Portfolio -->
-                            <li class="page-scroll">
-                                <a href="#diferencial">
-                                    Diferencial
-                                </a>
-                            </li>
+                      
                             <!-- End Portfolio -->
 
                         <!-- Features -->
