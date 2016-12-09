@@ -8,7 +8,7 @@
             </p>
             {{--<span class="color-green"></span>--}}
             <br>
-            <small>- Autor desconhecido -</small>
+            <small>{{ $author }}</small>
         </div>
     </div>
 </div>
