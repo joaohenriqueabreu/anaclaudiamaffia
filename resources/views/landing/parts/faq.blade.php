@@ -1,10 +1,10 @@
 <section class="twi-section g-color-white" id="twitter-feeds">
-<div class="g-heading-v7 text-center g-mb-70">
-            <h2 class="h2"><em class="block-name">Nossos serviços</em> Do jeitinho que você precisa!</h2>
-        </div>
     <div class="twi-section-inner">
         <div class="text-center g-max-width--700 g-margin-side-auto">
             <div class="twi-feed">
+                <div class="g-heading-v7 text-center g-mb-70">
+            <h2 class="h2"><em class="block-name">Dúvidas frequentes</em></h2>
+        </div>
                 <div class="twi">
                     <!--<a href="#" class="twi-author g-mb-25">
                         {{--<img src="assets/img-temp/twi/1.jpg" alt="">--}}
