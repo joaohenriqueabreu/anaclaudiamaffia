@@ -6,28 +6,9 @@
                     <div class="equal-height-column dp-table-cell team-v7-in">
                         <span class="team-v7-name">Ana Claudia Maffia de Abreu</span>
                         <span class="team-v7-position">Arquiteta e Urbanista | CAU A69921-7</span>
-                        <p>. Graduada em Arquitetura e Urbanismo pela UFMG
-                            (2011);
-                        </p>
-                        <p>
-                            . Pós-graduada em Design de Interiores e Iluminação
-                            pelo IPOG (2015);
-                        </p>
-                        <p align="justify">
-                            . Possui experiência em projetos residenciais e comerciais,
-                            trabalhando desde 2008 em projetos na área. Em 2011 deu
-                            início ao desenvolvimento dos próprios projetos. A pós-graduação
-                            veio para ampliar seu conhecimento e técnica a respeito
-                            do Design de Interiores, tema que sempre foi sua paixão.
-
-                        </p>
-                        <p align="justify">
-                            . Seu objetivo principal é atender e superar as expectativas
-                            dos clientes, associando seus desejos e sonhos com técnica
-                            e funcionalidade. Cada projeto é único, cada cliente possui
-                            necessidades específicas e o papel do arquiteto é entender
-                            cada uma delas e cuidar para que todos os aspectos sejam
-                            atendidos.
+                        <p align="justify"><p>. Ana Claudia é arquiteta apaixonada por tudo que a arquitetura representa! Sua alegria é poder trazer ao cliente um pouquinho desse sentimento, é poder mostrar a ele como o espaço projetado pode fazer diferença em sua vida, pois a arquitetura além de trazer mais beleza a nossos dias, também é capaz de desenvolver soluções e facilidades para nosso dia a dia.</p>
+                        <p>Seu objetivo principal é atender e superar as expectativas dos clientes, associando seus desejos e sonhos com técnica e funcionalidade. Cada projeto é único, cada cliente possui necessidades específicas e o papel do arquiteto é entender cada uma delas e cuidar para que todos os aspectos sejam atendidos.</p>
+                        <p>Ana Claudia é graduada em Arquitetura e Urbanismo pela UFMG (2011) e pós-graduada pelo IPOG em Design de Interiores e Iluminação (2015).</p>
                         </p>
 
                         <ul class="list-inline social-icons-v1">
