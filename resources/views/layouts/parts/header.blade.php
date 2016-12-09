@@ -9,7 +9,7 @@
                 <div class="col-sm-8 col-xs-8">
                     <div class="topbar-toggler"><span class="fa fa-angle-down"></span></div>
                     <ul class="topbar-list topbar-menu">
-                        <li><a href="#contato">arq.anaclaudiamaffia@gmail.com</a></li>
+                        <li><a href="#contato">contato@anaclaudiamaffia.com.br</a></li>
                         <li><a href="#contato">+55 31 98874-3863</a></li>
                         {{--<li class="cd-log_reg hidden-sm hidden-md hidden-lg"><strong><a class="cd-signin"--}}
                                                                                         {{--href="login.html">Login</a></strong>--}}
