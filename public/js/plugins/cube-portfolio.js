@@ -51,7 +51,8 @@
                 url: url,
                 type: 'GET',
                 dataType: 'html',
-                timeout: 5000
+                // timeout: 5000
+                timeout: 50000
             })
             .done(function(result) {
 

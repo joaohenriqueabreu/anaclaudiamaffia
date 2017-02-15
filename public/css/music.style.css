@@ -76,7 +76,8 @@ a:hover {
   border-radius: 50%;
 }
 .slick-dots li.slick-active {
-  background: #fe6466;
+  /*background: #fe6466;*/
+  background: #00a19a;
 }
 .slick-dots li button {
   display: none;
