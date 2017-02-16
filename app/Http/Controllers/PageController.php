@@ -23,7 +23,8 @@ class PageController extends Controller
         $categorias = Categoria::whereTipo('projetos')->get();
 
         // seleciona os projetos
-        $limit=6;
+//        $limit=6;
+        $limit=999;
 
         $projetos = Projeto::orderBy(DB::raw('RAND()'))->take($limit)->get();
 //        $projetos = Projeto::all();

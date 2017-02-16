@@ -70,7 +70,13 @@ class ProjetoController extends Controller {
 	{
 		$projeto = Projeto::findOrFail($id);
 
-		return view('projetos.show', ['projeto' => $projeto]);
+        if($projeto){
+            $images = Image::where('projeto_id','=',$projeto->id)->where('tipo','=','layout')->get();
+        } else {
+            $images = array();
+        }
+
+		return view('projetos.show', ['projeto' => $projeto, 'images' => $images]);
 	}
 
 	/**

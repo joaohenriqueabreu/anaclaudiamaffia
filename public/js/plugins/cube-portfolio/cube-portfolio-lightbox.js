@@ -15,10 +15,12 @@
         scrollByPage: false,
         mediaQueries: [{
             width: 1100,
-            cols: 3
+            // cols: 3
+            cols: 4
         }, {
             width: 800,
-            cols: 3
+            // cols: 3
+            cols: 4
         }, {
             width: 500,
             cols: 2
@@ -46,7 +48,15 @@
         singlePageStickyNavigation: true,
         singlePageCallback: function(url, element) {
             // to update singlePage content use the following method: this.updateSinglePage(yourContent)
+
         },
+        // , plugins: {
+        //     loadMore: {
+        //         selector: '#js-loadMore-juicy-projects',
+        //         action: 'click',
+        //         loadItems: 3,
+        //     }
+        // },
 
         // singlePageInline
         singlePageInlineDelegate: '.cbp-singlePageInline',

@@ -180,11 +180,13 @@
             <div class="tab-content">
                 <div role="tabpanel" class="tab-pane fade in active" id="consultoria">
                     <div class="row">
-                        <div class="col-sm-5 col-xs-5 col-2xs-12 responsive">
+                        {{--<div class="col-sm-5 col-xs-5 col-2xs-12 responsive">--}}
+                        <div class="col-sm-3 col-xs-5 col-2xs-12 responsive">
                             <img src="{{ URL::asset('img/servicos/ICONE_CONSULTORIA.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img3.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        <div class="col-sm-6 col-sm-push-1 col-xs-6 col-xs-push-1 col-2xs-12">
+                        {{--<div class="col-sm-6 col-sm-push-1 col-xs-6 col-xs-push-1 col-2xs-12">--}}
+                        <div class="col-sm-9 col-sm-push-1 col-xs-6 col-xs-push-1 col-2xs-12">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Consultoria</h3>
                             </div>

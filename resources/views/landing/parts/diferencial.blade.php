@@ -18,7 +18,9 @@
             <div class="why-we-item-inner">
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
-                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-glyphicon  icon-heart-empty"></i>
+                        {{--<i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-glyphicon  icon-heart-empty"></i>--}}
+                        {{--<i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-glyphicon icon-heart-empty"></i>--}}
+                        <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-heart"></i>
                     </div>
                     <div class="g-display-td g-text-top">
                         <h4>FOCO NA REALIZAÇÃO DE SONHOS</h4>
@@ -33,6 +35,9 @@
                         clientes merecem!
                     </div>
                 </div>
+
+                <hr style="border-color:white !important; margin: 0 !important; padding: 0 !important;">
+
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
                         <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-picture"></i>
@@ -48,6 +53,9 @@
                         o espaço projetado antes mesmo da sua execução! </p>
                     </div>
                 </div>
+
+                <hr style="border-color:white !important; margin: 0 !important; padding: 0 !important;">
+
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
                         <i class="icon-custom icon-2lg rounded-x icon-color-u icon-border-v2 icon-line icon-check"></i>

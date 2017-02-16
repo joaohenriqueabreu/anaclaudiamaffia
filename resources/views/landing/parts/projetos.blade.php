@@ -59,6 +59,13 @@
 
                 </div><!--/end Grid Container-->
             </div>
+            <div id="js-loadMore-juicy-projects" class="cbp-l-loadMore-button">
+                {{--<a href="ajax-juicy-projects/loadMore.html" class="cbp-l-loadMore-link" rel="nofollow">--}}
+                    {{--<span class="cbp-l-loadMore-defaultText">LOAD MORE (<span class="cbp-l-loadMore-loadItems">6</span>)</span>--}}
+                    {{--<span class="cbp-l-loadMore-loadingText">LOADING...</span>--}}
+                    {{--<span class="cbp-l-loadMore-noMoreLoading">NO MORE WORKS</span>--}}
+                {{--</a>--}}
+            </div>
             <!-- End Cube Portfolio -->
         </div>
     </div>

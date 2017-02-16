@@ -1802,12 +1802,25 @@ h2,
   border: none;
 }
 
+/*.slick-prev*/
+/*{*/
+  /*position: absolute;*/
+  /*left: 0px;*/
+/*}*/
+/*.slick-next*/
+/*{*/
+  /*position: absolute;*/
+  /*right: 50px;*/
+/*}*/
+
 /* Twi Section */
 .twi-section {
   position: relative;
   display: table;
   width: 100%;
-  background: url(../img/faq/1.jpg) fixed no-repeat 50% 50% / cover;
+  opacity: 0.8 !important;
+  /*background: url(../img/faq/1.jpg) fixed no-repeat 50% 50% / cover;*/
+  background: url(../img/faq/barra4.jpg) fixed no-repeat 50% 50% / cover;
 }
 .twi-section:before {
   content: "";

@@ -42,7 +42,8 @@
 {{--                        @for ($i = 0; $i < 4; $i++)--}}
 {{--                        {{ $i=0 }}--}}
                         <?php $i = 0 ?>
-                        @foreach ($projeto->images()->get() as $image)
+{{--                        @foreach ($projeto->images()->get() as $image)--}}
+                        @foreach ($images as $image)
                             @if ($i == 0)
                                 <div class="item active">
                             @else
