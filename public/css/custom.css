@@ -108,6 +108,7 @@
 .imagem-projeto
 {
 	width: 100%;
+	/*min-height: 500px !important;*/
 }
 
 em.invalid

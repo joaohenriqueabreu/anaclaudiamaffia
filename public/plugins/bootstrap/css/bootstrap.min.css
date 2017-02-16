@@ -6879,7 +6879,8 @@ button.close {
 }
 
 .carousel-caption {
-    position: absolute;
+    /*position: absolute;*/
+    position: relative;
     right: 15%;
     bottom: 20px;
     left: 15%;
