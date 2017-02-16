@@ -74,6 +74,7 @@
         MSShowCase3.initMSShowCase3();
         StyleSwitcher.initStyleSwitcher();
         ContactForm.initContactForm();
+        new WOW().init();
 
         $("#phone").mask('(99) 99999-9999');
     });

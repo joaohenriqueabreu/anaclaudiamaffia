@@ -12,6 +12,7 @@
 {{Html::script(asset('plugins/modernizr.js'))}}
 {{Html::script(asset('plugins/backstretch/jquery.backstretch.min.js'))}}
 {{Html::script(asset('plugins/owl-carousel2/owl.carousel.min.js'))}}
+{{Html::script(asset('plugins/wow-animations/js/wow.min.js'))}}
 
 {{Html::script(asset('plugins/jquery.parallax.js'))}}
 

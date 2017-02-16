@@ -198,11 +198,13 @@
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="proj-arq-interiores">
                     <div class="row">
-                        <div class="col-sm-5 responsive">
+                        {{--<div class="col-sm-5 responsive">--}}
+                        <div class="col-sm-3 responsive">
                             <img src="{{ URL::asset('img/servicos/ICONE_OUTROS.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img7.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        <div class="col-sm-6 col-sm-push-1">
+                        {{--<div class="col-sm-6 col-sm-push-1">--}}
+                        <div class="col-sm-9 col-sm-push-1">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Projeto arquitetônico, interiores e acompanhamento</h3>
                             </div>
@@ -215,11 +217,13 @@
                 </div>
                 <div role="tabpanel" class="tab-pane fade" id="proj-virtual">
                     <div class="row">
-                        <div class="col-sm-5 responsive">
+                        {{--<div class="col-sm-5 responsive">--}}
+                        <div class="col-sm-3 responsive">
                             <img src="{{ URL::asset('img/servicos/ICONE_PROJ_VIRTUAL.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img9.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        <div class="col-sm-6 col-sm-push-1">
+                        {{--<div class="col-sm-6 col-sm-push-1">--}}
+                        <div class="col-sm-9 col-sm-push-1">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Projeto Virtual</h3>
                             </div>

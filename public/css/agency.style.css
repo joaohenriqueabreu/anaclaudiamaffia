@@ -283,7 +283,8 @@ i.icon-color-u {
   color: #00a19a;;
 }
 i.icon-border-v2 {
-	border: 4px solid #504a51;
+	/*border: 4px solid #504a51;*/
+	border: 4px solid var(--brand-color);
 }
 i.icon-border-v3 {
 	border: 10px solid #f8f8f8;
@@ -931,7 +932,8 @@ i.icon-border-v3.g-icon-hover-1 span {
 	margin-bottom: 30px;
 }
 .why-we-item--dark .g-display-table {
-	padding: 70px 30px 60px 85px;
+	/*padding: 70px 30px 60px 85px;*/
+	padding: 10px 20px 10px 30px;
 	border-bottom: solid 1px #706f6a;
 	transition: all 0.3s ease-in-out;
 }
@@ -949,7 +951,8 @@ i.icon-border-v3.g-icon-hover-1 span {
 	color: #fff;
 }
 .why-we-item--dark p {
-	opacity: .5;
+	/*opacity: .5;*/
+	opacity: .7;
 	margin-bottom: 0;
 }
 

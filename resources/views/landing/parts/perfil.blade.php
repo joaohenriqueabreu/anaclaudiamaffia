@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 team-v7-img">
+            <div class="col-md-6 team-v7-img" style="padding-left: 0px !important">
             {{--<div class="col-md-5 team-v7-img">--}}
                 <img class="img-responsive full-width equal-height-column perfil-small"
                 {{--<img class="full-width equal-height-column"--}}

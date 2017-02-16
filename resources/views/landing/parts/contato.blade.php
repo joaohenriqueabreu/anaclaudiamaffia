@@ -5,7 +5,8 @@
             <h2 class="h2 g-mb-70"><em class="block-name">Quer nos conhecer melhor?</em> Entre em contato!</h2>
 
             <!-- form and contatc information -->
-            <div class="row">
+            {{--<div class="row">--}}
+            <div class="">
                 <div class="col-md-9 col-sm-6 form no-side-padding">
 {{--                    {{ Form::open(['method'=>'POST','route'=>'mail.send', 'id'=>'sky-form3', 'class'=>'sky-form contact-style']) }}--}}
                     {{ Form::open(['method'=>'POST', 'route'=>'mail.send', 'id'=>'sky-form3', 'class'=>'sky-form contact-style', 'novalidate']) }}

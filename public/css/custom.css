@@ -1,5 +1,9 @@
 /* Add here all your css styles (customizations) */
 
+:root {
+	--brand-color: #00a19a;
+}
+
 .even-section
 {
 	background: #f8f8f8;
@@ -65,6 +69,8 @@
 	/*max-width: 510px;*/
 	/*max-height: 800px;*/
 	max-width: 100% !important;
+	max-height: 500px !important;
+	margin-left: 0px !important;
 }
 
 .com-margem

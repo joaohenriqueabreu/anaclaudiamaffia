@@ -36,7 +36,7 @@
                     </div>
                 </div>
 
-                <hr style="border-color:white !important; margin: 0 !important; padding: 0 !important;">
+                <hr style="border-color:var(--brand-color) !important; margin: 0 !important; padding: 0 !important;">
 
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
@@ -54,7 +54,7 @@
                     </div>
                 </div>
 
-                <hr style="border-color:white !important; margin: 0 !important; padding: 0 !important;">
+                <hr style="border-color:var(--brand-color) !important; margin: 0 !important; padding: 0 !important;">
 
                 <div class="g-display-table wow fadeInRight" data-wow-offset="20" data-wow-duration="1.75s">
                     <div class="g-display-td g-text-middle hidden-xs">
