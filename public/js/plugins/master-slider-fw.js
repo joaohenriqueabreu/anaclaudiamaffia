@@ -5,9 +5,10 @@ var MSfullWidth = function () {
         initMSfullWidth: function () {
             var slider = new MasterSlider();
             slider.setup('masterslider', {
-                width: 1024,
-                height: 600,
-                fullwidth: true,
+                // width: 1024,
+                // height: 600,
+                layout: "fullscreen",
+                // fullwidth: true,
                 centerControls: false,
                 speed: 20,
                 autoplay: true,

@@ -2,9 +2,9 @@
     <div class="g-heading-v7 text-center g-mb-70">
         <h2 class="h2"><em class="block-name">Perfil</em>Um pouquinho sobre a arquiteta</h2>
     </div>
-    <div class="row">
+    <div class="row" style="margin: 0 !important;">
         {{--<div class="team-v7 no-gutter equal-height-columns">--}}
-        <div class="team-v7 equal-height-columns">
+        <div class="team-v7 no-gutter equal-height-columns">
         {{--<div class="">--}}
             {{--<div class="col-md-7 team-arrow-right">--}}
             <div class="col-md-6 team-arrow-right">
@@ -46,8 +46,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-5 team-v7-img">
-            {{--<div class="col-md-5">--}}
+            <div class="col-md-6 team-v7-img">
+            {{--<div class="col-md-5 team-v7-img">--}}
                 <img class="img-responsive full-width equal-height-column perfil-small"
                 {{--<img class="full-width equal-height-column"--}}
                 {{--<img class="perfil-small"--}}

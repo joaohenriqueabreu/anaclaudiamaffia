@@ -1,5 +1,6 @@
 <section id="projetos">
-    <div class="row even-section">
+    {{--<div class="row even-section">--}}
+    <div class="even-section">
         <div class="container content-md">
             <div class="g-heading-v7 text-center">
                 {{--<h2 class="title-v2 title-center">PROJETOS</h2>--}}

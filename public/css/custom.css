@@ -54,12 +54,17 @@
 	border-color: #c6c6c6;; !important;
 }
 
+.custom-home{
+	min-height: 400px !important;
+}
+
 .perfil-small
 {
 	/*width: 510px;*/
 	/*heigth: 800px;*/
-	max-width: 510px;
-	max-height: 800px;
+	/*max-width: 510px;*/
+	/*max-height: 800px;*/
+	max-width: 100% !important;
 }
 
 .com-margem

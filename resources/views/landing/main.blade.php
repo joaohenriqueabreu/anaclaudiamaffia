@@ -5,7 +5,8 @@
 @endsection
 
 @section('variaveis')
-    {{ $main_page = true }}
+    {{--{{ $main_page = true }}--}}
+    <?php $main_page = true ?>
 @endsection
 
 @section('conteudo')

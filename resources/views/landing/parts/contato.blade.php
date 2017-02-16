@@ -1,6 +1,6 @@
 <!--Contact Section-->
 <section id="contato" xmlns="http://www.w3.org/1999/html">
-    <div class="row">
+    <div class="row" style="margin: 0 !important;">
         <div class="container content-md g-heading-v7 text-center">
             <h2 class="h2 g-mb-70"><em class="block-name">Quer nos conhecer melhor?</em> Entre em contato!</h2>
 

@@ -1,8 +1,9 @@
 <!-- Home -->
 <section id="home">
     <!--=== Slider ===-->
-    <div class="ms-layers-template row">
+    <div class="ms-layers-template row" style="margin: 0 !important;">
         <!-- masterslider -->
+        {{--<div class="master-slider ms-skin-black-2 round-skin custom-home" id="masterslider">--}}
         <div class="master-slider ms-skin-black-2 round-skin" id="masterslider">
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
