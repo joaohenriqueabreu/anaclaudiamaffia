@@ -11,7 +11,13 @@
         "illuminate/html": "v5.0.0",
         "barryvdh/laravel-ide-helper": "v2.2.1",
         "doctrine/dbal": "2.3.5",
-        "fzaninotto/faker": "v1.6.0"
+        "fzaninotto/faker": "v1.6.0",
+        "sentry/sentry": "^1.6",
+        "sentry/sentry-laravel": "^0.6.1",
+        "bogardo/mailgun": "^5.0",
+        "mailgun/mailgun-php": "^2.1",
+        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/message": "^1.5"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",

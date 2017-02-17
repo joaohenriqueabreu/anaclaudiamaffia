@@ -162,7 +162,11 @@ return [
         Collective\Html\HtmlServiceProvider::class,
 //        Laralib\L5scaffold\GeneratorsServiceProvider::class,
 //        Auth0\Login\LoginServiceProvider::class,
-        
+
+
+        Sentry\SentryLaravel\SentryLaravelServiceProvider::class,
+
+
     ],
 
     /*
@@ -211,6 +215,9 @@ return [
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
         'Auth0' => Auth0\Login\Facade\Auth0::class,
+
+        'Sentry' => Sentry\SentryLaravel\SentryFacade::class,
+
 
     ],
 
