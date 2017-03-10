@@ -185,8 +185,8 @@
                             <img src="{{ URL::asset('img/servicos/ICONE_CONSULTORIA.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img3.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        {{--<div class="col-sm-6 col-sm-push-1 col-xs-6 col-xs-push-1 col-2xs-12">--}}
-                        <div class="col-sm-9 col-sm-push-1 col-xs-6 col-xs-push-1 col-2xs-12">
+                        {{--<div class="col-sm-6 col-xs-6 col-2xs-12">--}}
+                        <div class="col-sm-9 col-xs-6 col-2xs-12">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Consultoria</h3>
                             </div>
@@ -203,8 +203,8 @@
                             <img src="{{ URL::asset('img/servicos/ICONE_OUTROS.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img7.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        {{--<div class="col-sm-6 col-sm-push-1">--}}
-                        <div class="col-sm-9 col-sm-push-1">
+                        {{--<div class="col-sm-6">--}}
+                        <div class="col-sm-9">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Projeto arquitetônico, interiores e acompanhamento</h3>
                             </div>
@@ -222,8 +222,8 @@
                             <img src="{{ URL::asset('img/servicos/ICONE_PROJ_VIRTUAL.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img9.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        {{--<div class="col-sm-6 col-sm-push-1">--}}
-                        <div class="col-sm-9 col-sm-push-1">
+                        {{--<div class="col-sm-6">--}}
+                        <div class="col-sm-9">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Projeto Virtual</h3>
                             </div>
@@ -239,7 +239,7 @@
                             <img src="{{ URL::asset('img/servicos/ICONE_CAPACETE.png') }}" alt="" class="img-responsive rounded">
                             {{--<div class="tab-v8__offset-img rounded"><img src="assets/img-temp/img5.jpg" alt="" class="img-responsive"></div>--}}
                         </div>
-                        <div class="col-sm-6 col-sm-push-1">
+                        <div class="col-sm-6">
                             <div class="g-heading-v9 g-mb-30">
                                 <h3>Outros serviços</h3>
                             </div>
