@@ -5,10 +5,10 @@
         <div class="why-we-item why-we-item--light equal-height-column">
             <div class="why-we-item-inner">
                 <h2 class="h2"><em class="block-name">Diferenciais</em> Porque você deve fazer um projeto conosco ?</h2>
-                <p align="justify"><p>Porque tratamos nossos clientes com o respeito e atenção que eles merecem, afinal nosso maior sonho é realizar os sonhos de cada um deles!</p>
-                <p>Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários, que tragam realização, conforto e praticidade.</p>
-                <p>Porque entendemos nossa tarefa enquanto arquitetos e responsáveis por trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!</p>
-                <p>Veja ao lado nossos maiores diferencias.</p>
+                <p align="justify"><p>Porque tratamos nossos clientes com o respeito e atenção que eles merecem. Nosso maior sonho é realizar os sonhos de cada um deles!</p>
+                <p>Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários e que tragam realização, conforto e praticidade.</p>
+                <p>Porque entendemos que nossa tarefa enquanto arquitetos e responsáveis é trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!</p>
+                <p>Veja nossos maiores diferencias.</p>
                 {{--<p align="justify"><button class="btn-u btn-u-lg btn-u-red btn-u-upper" type="submit">Get In Touch</button>--}}
                 </p>
             </div>
@@ -28,7 +28,7 @@
                         nossa responsabilidade nesse processo levamos a sério cada etapa, buscando soluções completas, dentro dos 
                         padrões esperados de qualidade e custo. Entendemos que o projeto bem elaborado é resultado da parceria entre 
                         profissional e clientes, por isso buscamos entender as necessidades e idéias do cliente para em conjunto 
-                        chegar à uma solução que alie técnica, funcionalidade e estética. Cada projeto é único, cada solução é única 
+                        chegarmos à uma solução que alie técnica, funcionalidade e estética. Cada projeto é único, cada solução é única 
                         e pensada com carinho para atender cada um de nossos clientes. A escolha do material, o estilo adotado, 
                         cada medida, tudo é pensado de modo que o usuário crie total identificação com o seu espaço, que se sinta 
                         feliz e realizado! Nosso escritório cuida de tudo com todo carinho e comprometimento que os sonhos dos nossos 
