@@ -46,11 +46,6 @@
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
                      data-src="{{ URL::asset('img/home/CARROUSEL (9).jpeg')}}" alt="">
             </div>
-            
-            <div class="ms-slide" style="z-index: 10">
-                <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (10).jpeg')}}" alt="">
-            </div>
 
             {{--<div class="ms-slide" style="z-index: 10">--}}
                 {{--<img src="{{ URL::asset('img/home/blank.gif')}}"--}}
