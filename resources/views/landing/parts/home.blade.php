@@ -7,29 +7,49 @@
         <div class="master-slider ms-skin-black-2 round-skin" id="masterslider">
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (2).jpg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (1).jpg')}}" alt="">
             </div>
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (4).jpg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (2).jpg')}}" alt="">
             </div>
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (5).jpg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (3).jpg')}}" alt="">
             </div>
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (6).jpg')}}" alt="">
-            </div>
-
-            <div class="ms-slide" style="z-index: 10">
-                <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (7).jpg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (4).jpg')}}" alt="">
             </div>
 
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CAROUSEL (10).jpeg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (5).jpg')}}" alt="">
+            </div>
+
+            <div class="ms-slide" style="z-index: 10">
+                <img src="{{ URL::asset('img/home/blank.gif')}}"
+                     data-src="{{ URL::asset('img/home/CARROUSEL (6).jpeg')}}" alt="">
+            </div>
+            
+            <div class="ms-slide" style="z-index: 10">
+                <img src="{{ URL::asset('img/home/blank.gif')}}"
+                     data-src="{{ URL::asset('img/home/CARROUSEL (7).jpeg')}}" alt="">
+            </div>
+            
+            <div class="ms-slide" style="z-index: 10">
+                <img src="{{ URL::asset('img/home/blank.gif')}}"
+                     data-src="{{ URL::asset('img/home/CARROUSEL (8).jpeg')}}" alt="">
+            </div>
+            
+            <div class="ms-slide" style="z-index: 10">
+                <img src="{{ URL::asset('img/home/blank.gif')}}"
+                     data-src="{{ URL::asset('img/home/CARROUSEL (9).jpeg')}}" alt="">
+            </div>
+            
+            <div class="ms-slide" style="z-index: 10">
+                <img src="{{ URL::asset('img/home/blank.gif')}}"
+                     data-src="{{ URL::asset('img/home/CARROUSEL (10).jpeg')}}" alt="">
             </div>
 
             {{--<div class="ms-slide" style="z-index: 10">--}}
