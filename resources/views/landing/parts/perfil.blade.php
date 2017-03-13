@@ -13,12 +13,12 @@
                         <span class="team-v7-name">Ana Claudia Maffia de Abreu</span>
                         <span class="team-v7-position">Arquiteta e Urbanista | CAU A69921-7</span>
                         <p align="justify">Ana Claudia é arquiteta apaixonada por tudo que a arquitetura representa! Sua
-                            alegria é poder trazer ao cliente um pouquinho desse sentimento, é poder mostrar a ele como
+                            alegria é poder trazer ao cliente um pouquinho desse sentimento e poder mostrar a ele como
                             o espaço projetado pode fazer diferença em sua vida, pois a arquitetura além de trazer mais
                             beleza a nossos dias, também é capaz de desenvolver soluções e facilidades para nosso dia a
                             dia.</p>
                         <p align="justify">Seu objetivo principal é atender e superar as expectativas dos clientes,
-                            associando seus desejos e sonhos com técnica e funcionalidade. Cada projeto é único, cada
+                            associando seus desejos e sonhos com técnica e funcionalidade. Cada projeto é único! Cada
                             cliente possui necessidades específicas e o papel do arquiteto é entender cada uma delas e
                             cuidar para que todos os aspectos sejam atendidos.</p>
                         <p align="justify">Ana Claudia é graduada em Arquitetura e Urbanismo pela UFMG (2011) e
