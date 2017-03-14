@@ -79,7 +79,7 @@
                     <ul class="list-unstyled margin-bottom-30">
                         <li><span aria-hidden="true" class="icon-call-in icon"></span></li>
                         <li class="first-item">Telefone</li>
-                        <li class="second-item">+55 31 98874 3836</li>
+                        <li class="second-item">+55 31 98874 3863</li>
                     </ul>
 
                     <ul class="list-unstyled margin-bottom-30">
