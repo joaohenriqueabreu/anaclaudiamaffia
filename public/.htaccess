@@ -3,6 +3,10 @@
         Options -MultiViews
     </IfModule>
 
+    # Wordpress
+    RewriteRule ^(blog)($|/) - [L]
+
+
     RewriteEngine On
 
     # Redirect Trailing Slashes If Not A Folder...
