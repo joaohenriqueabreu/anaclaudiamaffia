@@ -28,3 +28,5 @@ Route::resource('projetos.images','ProjetoImageController');
 Route::get('test', ['as' => 'test.home', function () {
     return view('test.home');
 }]);
+
+//Route::get('blog', ['as' => 'blog',  'uses' => "PageController@blog"]);

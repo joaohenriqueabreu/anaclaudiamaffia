@@ -40,4 +40,9 @@ class PageController extends Controller
 
         return view('landing.parts.projeto.mini', compact('projeto'));
     }
+
+    public function blog()
+    {
+        return view('blog.index');
+    }
 }
