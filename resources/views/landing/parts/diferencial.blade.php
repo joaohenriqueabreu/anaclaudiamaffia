@@ -8,7 +8,7 @@
                 <p align="justify"><p>Porque tratamos nossos clientes com o respeito e atenção que eles merecem. Nosso maior sonho é realizar os sonhos de cada um deles!</p>
                 <p>Porque buscamos criar espaços diferenciados, que realmente mudem a vida dos usuários e que tragam realização, conforto e praticidade.</p>
                 <p>Porque entendemos que nossa tarefa enquanto arquitetos e responsáveis é trazer facilidades ao dia a dia das pessoas e criar ambientes mais agradáveis a todos!</p>
-                <p>Veja nossos maiores diferencias.</p>
+                <p>Veja nossos maiores diferenciais.</p>
                 {{--<p align="justify"><button class="btn-u btn-u-lg btn-u-red btn-u-upper" type="submit">Get In Touch</button>--}}
                 </p>
             </div>

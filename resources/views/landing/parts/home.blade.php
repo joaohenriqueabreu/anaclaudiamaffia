@@ -29,27 +29,22 @@
 
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (6).jpeg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (6).jpg')}}" alt="">
             </div>
             
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (7).jpeg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (7).jpg')}}" alt="">
             </div>
             
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (8).jpeg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (8).jpg')}}" alt="">
             </div>
             
             <div class="ms-slide" style="z-index: 10">
                 <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (9).jpeg')}}" alt="">
-            </div>
-            
-            <div class="ms-slide" style="z-index: 10">
-                <img src="{{ URL::asset('img/home/blank.gif')}}"
-                     data-src="{{ URL::asset('img/home/CARROUSEL (10).jpeg')}}" alt="">
+                     data-src="{{ URL::asset('img/home/CARROUSEL (9).jpg')}}" alt="">
             </div>
 
             {{--<div class="ms-slide" style="z-index: 10">--}}
