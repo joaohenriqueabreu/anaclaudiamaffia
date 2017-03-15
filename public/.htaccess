@@ -4,8 +4,8 @@
     </IfModule>
 
     # Wordpress
-    RewriteRule ^(blog)($|/) - [L]
-
+    # RewriteRule ^(blog)($|/) - [L]
+    RewriteCond $1 !^(blog)
 
     RewriteEngine On
 
