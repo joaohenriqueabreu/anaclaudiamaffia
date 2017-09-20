@@ -23,6 +23,8 @@
     <meta property="og:description" content="Ana Claudia Maffia Arquitetura e Interiores" />
     <meta property="og:site_name" content="Arquitetura e Interiores" />
 
+    <meta name="google-site-verification" content="rLfj_K-9C7Iqq1jmvCBwz1SHzwxVCJ2jb5nY5L8u7cQ" />
+
     <link rel="icon" href="{{ asset('img/logo/logo2.png') }}">
 
     @include('layouts.styles')
