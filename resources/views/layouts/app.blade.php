@@ -25,6 +25,8 @@
 
     <meta name="google-site-verification" content="rLfj_K-9C7Iqq1jmvCBwz1SHzwxVCJ2jb5nY5L8u7cQ" />
 
+    <meta name="p:domain_verify" content="2a1cdcdfc954415486a9c37ef39f8689"/>
+
     <link rel="icon" href="{{ asset('img/logo/logo2.png') }}">
 
     @include('layouts.styles')
