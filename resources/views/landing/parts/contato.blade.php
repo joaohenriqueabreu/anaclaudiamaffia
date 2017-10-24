@@ -73,7 +73,7 @@
                      <ul class="list-unstyled margin-bottom-30">
                         <li><span aria-hidden="true" class="icon-map icon"></span></li>
                         <li class="first-item">Endereço</li>
-                        <li class="second-item">Rua dos Timbiras, 2683 - Funcionários, Belo Horizonte, MG - 08:00h às 18:00h</li>
+                        <li class="second-item">Rua Jacques Luciano, 108 - Sagrada Família, Belo Horizonte, MG - 08:00h às 18:00h</li>
                     </ul>
                     
                     <ul class="list-unstyled margin-bottom-30">
@@ -85,7 +85,7 @@
                     <ul class="list-unstyled margin-bottom-30">
                         <li><span aria-hidden="true" class="icon-envelope-open icon"></span></li>
                         <li class="first-item">Email</li>
-                        <li class="second-item">contato@anaclaudiamaffia.com.br</li>
+                        <li class="second-item">ana@anaclaudiamaffia.com.br</li>
                     </ul>
                 </div>
             </div>
